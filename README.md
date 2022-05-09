@@ -1,7 +1,7 @@
 # sobre mim
 - 👋 Hi, I’m Lu
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learningg the basics of programming
+- 🌱 I’m currently learning the basics of programming
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: luisa.ester.santos@escola.pr.gov.br
 - 
